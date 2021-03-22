@@ -6,8 +6,6 @@ return [
         ' Ask',
     ]),
 
-    "is_us_citizen" => "Are you a US citizen or do you represent a US entity?",
-
     "success" => implode("\n", [
         "👍 I successfully asked giver.",
         "Please wait to see the incoming transaction.",
