@@ -10,12 +10,16 @@ return [
     ]),
 
     "received" => implode("\n", [
-        "Transaction received: 💎 :amount",
+        "Transaction received:",
+        "💎 :amount TON",
+        "💲 :usd_amount USD",
         "To check your balance run /balance",
     ]),
 
     "sent" => implode("\n", [
-        "Transaction sent: 💎 :amount",
+        "Transaction sent:",
+        "💎 :amount TON",
+        "💲 :usd_amount USD",
     ]),
 
     "transfer_from_giver_failed" => "Transfer failed. Please try again.",
