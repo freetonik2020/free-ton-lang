@@ -26,5 +26,5 @@ return [
         "/policy - privacy policy",
     ]),
 
-    "user_guide" => "https://telegra.ph/FreeTONCrystalBot-User-Guide-03-22/",
+    "user_guide" => "https://telegra.ph/FreeTONCrystalBot-User-Guide-03-22",
 ];
