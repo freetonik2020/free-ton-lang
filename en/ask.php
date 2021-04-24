@@ -38,9 +38,5 @@ return [
             "🚫 Sorry. The giver is empty.",
             "If you'd like to support TON Crystals airdrop please consider donating to the Giver address."
         ]),
-
-        "transferring" => "Transfer in progress...",
-
-        "not_new" => "Sorry. Bot is curently on beta and airdrops tokens to new users only.",
     ],
 ];
