@@ -11,8 +11,9 @@ return [
         "",
         ":top",
         "",
-        "/monthtop - last month top",
-        "/weektop - last week top",
         "/daytop - last day top",
+        "/weektop - last week top",
+        "/monthtop - last month top",
+        "/alltop - all time top",
     ]),
 ];
