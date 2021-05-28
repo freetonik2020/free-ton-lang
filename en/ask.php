@@ -38,5 +38,11 @@ return [
             "🚫 Sorry. The giver is empty.",
             "If you'd like to support TON Crystals airdrop please consider donating to the Giver address."
         ]),
+
+        "cas_ban" => implode("\n", [
+            "🚫 Sorry. You can't ask giver.",
+            "You were banned by Combot Anti-Spam.",
+            ":url"
+        ]),
     ],
 ];
